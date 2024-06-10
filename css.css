@@ -35,7 +35,7 @@
 
 .main .all{
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
     row-gap:15px;
     column-gap: 0px;
 }
@@ -43,7 +43,7 @@
 .main .all .box{
     display: inline;
     box-shadow: 0 5px 10px rgba(0,0,0,.2);
-    border-radius: 15px;
+    border-radius: 10px;
     background: #040e2c;
     text-align: center;
     padding:20px 15px;  
