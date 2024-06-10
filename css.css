@@ -64,8 +64,9 @@
 }
 
 .main .all .box h3{
+    width: 100px;
     color:#fff;
-    font-size: 22px;
+    font-size: 18px;
     padding:10px 0;
 }
 
